@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecyclerVKotlin</string>
+
+    <string name="open_drawer">Navigation drawer is open</string>
+    <string name="close_drawer">Navigation drawer is close</string>
+
+    <string name="user_name">José Luis</string>
+    <string name="user_email">joseluisng17@gmail.comt</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_home">Framento Home</string>
+    <string name="arrivals_fragment_title">Arrivals</string>
+    <string name="departures_fragment_title">Departures</string>
+    <string name="home_fragment_title">Home</string>
+
+</resources>
